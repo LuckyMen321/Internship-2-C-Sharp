@@ -1,0 +1,14 @@
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\bin\Debug\net6.0\DumpHomework2.exe
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\bin\Debug\net6.0\DumpHomework2.deps.json
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\bin\Debug\net6.0\DumpHomework2.runtimeconfig.json
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\bin\Debug\net6.0\DumpHomework2.dll
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\bin\Debug\net6.0\DumpHomework2.pdb
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.AssemblyInfoInputs.cache
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.AssemblyInfo.cs
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.csproj.CoreCompileInputs.cache
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.dll
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\refint\DumpHomework2.dll
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.pdb
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\DumpHomework2.genruntimeconfig.cache
+C:\Users\frane\OneDrive\Desktop\DUMPHomework\DUMPHomework2\DumpHomework2Solution\DumpHomework2\obj\Debug\net6.0\ref\DumpHomework2.dll
